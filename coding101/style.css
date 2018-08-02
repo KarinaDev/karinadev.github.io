@@ -1,0 +1,45 @@
+body{
+	background-color: #5c5c5c;
+	color: white;
+	font-family: Futura, sans-serif;
+	text-align: center;
+}
+h1, h2, h3{
+letter-spacing: 1px;
+text-align: center;
+}
+
+h3{
+	font-style: italic;
+}
+
+p{
+	text-align: center;
+  	
+  	margin: 0 auto;
+}
+
+img{
+	margin: 29px;
+	width: 400px;
+}
+
+.bananas{
+	color: yellow;
+}
+
+.apples{
+	color: red;
+}
+
+.papaya{
+	color: orange;
+}
+
+.mangoes{
+	color: yellow;
+}
+
+.kiwi{
+	color: green;
+}
